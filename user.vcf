@@ -3,11 +3,11 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:CHER;Pei Hua;;;
 FN: Dr CHER Pei Hua 
-ORG:MINDEF;
-TITLE:Assistant Director (Data Science)\nData Science Department, Digital & Corporate Transformation Division
-EMAIL;type=INTERNET;type=WORK;type=pref:cher_pei_hua@defence.gov.sg
-item1.ADR;type=WORK;type=pref:;;5 Depot Road\nDefence Technology Tower B;;;109681;Singapore
+ORG:Duke-NUS Medical School;
+TITLE:Assistant Professor\nTechnology-Enhanced Learning & Innovation Department, Office of Education
+EMAIL;type=INTERNET;type=WORK;type=pref:peihua.cher@duke-nus.edu.sg
+item1.ADR;type=WORK;type=pref:;;8 College Rd;;;169857;Singapore
 item1.X-ABADR:sg
-item2.URL;type=pref:www.mindef.gov.sg
+item2.URL;type=pref:www.duke-nus.edu.sg
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
